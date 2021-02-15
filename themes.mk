@@ -76,3 +76,9 @@ PRODUCT_PACKAGES += \
     GVM-URM-M \
     GVM-URM-L \
     GVM-URM-R
+
+# Gesture radius
+PRODUCT_PACKAGES += \
+    GesturalNavigationRadiusLow \
+    GesturalNavigationRadiusVeryLow \
+    GesturalNavigationRadiusHidden
